@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main {
+	max-width: 560px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 1em;
+	font-family: Arial Sans-serif;
+	border: 1px solid black;
+}
+
+#factorial {
+
+	font-size: 3.0em;
+	text-align: center;
+	margin: 0 1em;
+}
+
+input {
+	padding: 0.5em;
+	font-size: 1.5em;
+	width: 100%;
+	text-align: center;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+

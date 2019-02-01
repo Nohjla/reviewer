@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main {
+	max-width: 560px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 1em;
+	font-family: Tahoma Sans-serif;
+	border: 1px solid black;
+}
+
+#palindrome {
+	font-size: 3.0em;
+	text-align: center;
+	margin: 0 1em;
+}
+
+input {
+	padding: 0.5em;
+	font-size: 1.5em;
+	width: 100%;
+	text-align: center;
+}
+
+
